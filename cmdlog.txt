@@ -1,0 +1,27 @@
+    1  pwd
+    2  ls -a
+    3  ls
+    4  pwd
+    5  ls -l
+    6  cat ntuser.dat.LOG1
+    7  su
+    8  clear
+    9  config
+   10  .git config
+   11  git config
+   12  git config -l
+   13  exit
+   14  pwd
+   15  cd github
+   16  cd github
+   17  pwd
+   18  cd Documents/
+   19  cd GitHub/
+   20  ls
+   21  cd datascience
+   22  pwd
+   23  ls
+   24  git init
+   25  git remote add origin https://github.com/theedoms/datasciencecoursera
+   26  history
+   27  history >cmdlog
